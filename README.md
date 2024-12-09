@@ -3,7 +3,7 @@
 **Estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad**  
 🎓 Universidad Panamericana | Promedio: **9.4**  
 📧 jdealbaruiz@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/)  
-
+   0260907@up.edu.mx
 ---
 
 ## 👋 Acerca de mí
