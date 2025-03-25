@@ -1,8 +1,8 @@
 # 💻 Javier de Alba Ruiz
 
 **Estudiante de Ingeniería en Inteligencia de Datos y Ciberseguridad**  
-🎓 Universidad Panamericana
-📧 jdealbaruiz@gmail.com | 🌐 [LinkedIn](www.linkedin.com/in/javier-de-alba-ruiz-428811331)  
+🎓 Universidad Panamericana  
+📧 jdealbaruiz@gmail.com |  🌐 [LinkedIn](www.linkedin.com/in/javier-de-alba-ruiz-428811331)  
    0260907@up.edu.mx
 ---
 
