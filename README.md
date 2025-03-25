@@ -19,7 +19,7 @@ Hola, soy Javier, un apasionado estudiante en el campo de la inteligencia de dat
 ## 🚀 Habilidades Técnicas
 
 - **Lenguajes de programación**: C++, Python, SQL, Java, C#  
-- **Frameworks y bibliotecas**: Pandas, Streamlit  
+- **Frameworks y bibliotecas**: Pandas, Streamlit, Django  
 - **Conceptos fundamentales**: Programación Orientada a Objetos, Algoritmos y Estructuras de Datos  
 - **Idiomas**:  
   - Español (Nativo)  
